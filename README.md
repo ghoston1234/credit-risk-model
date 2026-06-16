@@ -7,7 +7,7 @@
 - 来源：Kaggle "Give Me Some Credit"
 - 样本量：约15万条记录
 - 特征数：10+（包含年龄、收入、负债比、信用卡使用率等）
-- 目标变量：`SeriousDlqin2yrs`（1=违约，0=正常）
+- 目标变量：`SeriousDlqin2yrs` （1=违约，0=正常）
 
 ## 技术栈
 - Python 3.9+
